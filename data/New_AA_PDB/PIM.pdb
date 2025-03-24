@@ -1,0 +1,32 @@
+ATOM      1  N   PIM    1R       4.054   0.195  -0.093  1.00  0.00           N   
+ATOM      2  CA  PIM    1R       2.745   0.470  -0.174  1.00  0.00           C   
+ATOM      3 NB2  PIM    1R       1.748  -0.366  -0.057  1.00  0.00           N   
+ATOM      4 CG2  PIM    1R       0.602   0.389  -0.212  1.00  0.00           C   
+ATOM      5  CD  PIM    1R      -0.738  -0.178  -0.149  1.00  0.00           C   
+ATOM      6 CE1  PIM    1R      -1.891   0.611  -0.268  1.00  0.00           C   
+ATOM      7 CZ1  PIM    1R      -3.163   0.032  -0.202  1.00  0.00           C   
+ATOM      8  CH  PIM    1R      -3.298  -1.342  -0.018  1.00  0.00           C   
+ATOM      9 CZ2  PIM    1R      -2.162  -2.139   0.101  1.00  0.00           C   
+ATOM     10 CE2  PIM    1R      -0.892  -1.560   0.036  1.00  0.00           C   
+ATOM     11 CG1  PIM    1R       0.934   1.710  -0.430  1.00  0.00           C   
+ATOM     12 NB1  PIM    1R       2.303   1.742  -0.405  1.00  0.00           N   
+ATOM     13  H   PIM    1R       4.687   0.885   0.294  1.00  0.00           H   
+ATOM     14 HE1  PIM    1R      -1.821   1.686  -0.411  1.00  0.00           H   
+ATOM     15 HZ1  PIM    1R      -4.048   0.657  -0.296  1.00  0.00           H   
+ATOM     16  HH  PIM    1R      -4.286  -1.791   0.032  1.00  0.00           H   
+ATOM     17 HZ2  PIM    1R      -2.260  -3.212   0.245  1.00  0.00           H   
+ATOM     18 HE2  PIM    1R      -0.014  -2.196   0.130  1.00  0.00           H   
+ATOM     19 HG1  PIM    1R       0.351   2.602  -0.603  1.00  0.00           H   
+ATOM     20 HB1  PIM    1R       2.893   2.545  -0.558  1.00  0.00           H   
+CONECT    1    2   13 
+CONECT    2    3    3   12 
+CONECT    3    4 
+CONECT    4    5   11   11 
+CONECT    5    6    6   10 
+CONECT    6    7   14 
+CONECT    7    8    8   15 
+CONECT    8    9   16 
+CONECT    9   10   10   17 
+CONECT   10   18 
+CONECT   11   12   19 
+CONECT   12   20 

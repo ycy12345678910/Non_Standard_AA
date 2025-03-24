@@ -1,0 +1,26 @@
+ATOM      1 CG2  BTH     1      -2.099  -0.845  -1.755  1.00  0.00           C   
+ATOM      2  CB  BTH     1      -1.523  -0.536  -0.371  1.00  0.00           C   
+ATOM      3 OG1  BTH     1      -0.166  -0.118  -0.602  1.00  0.00           O   
+ATOM      4  CD  BTH     1       0.590   0.096   0.588  1.00  0.00           C   
+ATOM      5  CE  BTH     1       2.066   0.069   0.271  1.00  0.00           C   
+ATOM      6 CZ1  BTH     1       2.937   0.981   0.884  1.00  0.00           C   
+ATOM      7 CH1  BTH     1       4.309   0.935   0.628  1.00  0.00           C   
+ATOM      8  CQ  BTH     1       4.826  -0.027  -0.237  1.00  0.00           C   
+ATOM      9 CH2  BTH     1       3.973  -0.946  -0.845  1.00  0.00           C   
+ATOM     10 CZ2  BTH     1       2.601  -0.901  -0.589  1.00  0.00           C   
+ATOM     11  CA  BTH     1      -2.363   0.501   0.425  1.00  0.00           C   
+ATOM     12  N   BTH     1      -2.386   1.855  -0.188  1.00  0.00           N   
+ATOM     13  C   BTH     1      -3.793  -0.006   0.635  1.00  0.00           C   
+ATOM     14  O   BTH     1      -4.822   0.579   0.329  1.00  0.00           O   
+CONECT    1    2 
+CONECT    2    3   11 
+CONECT    3    4 
+CONECT    4    5 
+CONECT    5    6    6   10 
+CONECT    6    7 
+CONECT    7    8    8 
+CONECT    8    9 
+CONECT    9   10   10 
+CONECT   11   12   13 
+CONECT   12 
+CONECT   13   14   14 

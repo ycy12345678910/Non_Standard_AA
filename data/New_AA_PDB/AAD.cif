@@ -1,0 +1,54 @@
+data_AAD
+#
+_entry.id AAD
+#
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+AAD    N N 2.660 -1.584 -0.055
+AAD   CA C 1.721 -0.499 -0.440
+AAD   CB C 0.375 -0.755 0.246
+AAD   CG C -0.752 0.127 -0.304
+AAD   CD C -2.090 -0.215 0.351
+AAD   CE C -3.210 0.631 -0.193
+AAD  OZ2 O -3.163 1.424 -1.117
+AAD  OZ1 O -4.366 0.415 0.466
+AAD    C C 2.294 0.870 -0.042
+AAD    O O 1.982 1.951 -0.513
+AAD    H H 3.543 -1.430 -0.545
+AAD   HA H 1.621 -0.523 -1.531
+AAD  HB1 H 0.465 -0.591 1.328
+AAD  HB2 H 0.089 -1.805 0.105
+AAD  HG1 H -0.527 1.186 -0.131
+AAD  HG2 H -0.827 -0.007 -1.390
+AAD  HD1 H -2.025 -0.044 1.431
+AAD  HD2 H -2.340 -1.266 0.169
+AAD  HZ1 H -5.006 1.009 0.019
+#
+loop_
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+N CA  SING 
+N H  SING 
+CA CB  SING 
+CA C  SING 
+CA HA  SING 
+CB CG  SING 
+CB HB1  SING 
+CB HB2  SING 
+CG CD  SING 
+CG HG1  SING 
+CG HG2  SING 
+CD CE  SING 
+CD HD1  SING 
+CD HD2  SING 
+CE OZ2  DOUB 
+CE OZ1  SING 
+OZ1 HZ1  SING 
+C O  DOUB 
+#

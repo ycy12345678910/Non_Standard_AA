@@ -1,0 +1,84 @@
+data_New_AA_PDB/AAS
+#
+_entry.id New_AA_PDB/AAS
+#
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+New_AA_PDB/AAS    N N 4.990 0.221 0.482
+New_AA_PDB/AAS   CA C 3.858 1.051 0.941
+New_AA_PDB/AAS   CB C 2.747 1.172 -0.108
+New_AA_PDB/AAS   CG C 2.127 -0.158 -0.532
+New_AA_PDB/AAS   CD C 1.087 0.071 -1.598
+New_AA_PDB/AAS  OE2 O 1.308 -0.017 -2.797
+New_AA_PDB/AAS  OE1 O -0.101 0.409 -1.030
+New_AA_PDB/AAS   CZ C -1.182 0.666 -1.939
+New_AA_PDB/AAS   CH C -1.885 -0.626 -2.342
+New_AA_PDB/AAS   CQ C -2.353 -1.511 -1.180
+New_AA_PDB/AAS   CI C -3.445 -0.891 -0.302
+New_AA_PDB/AAS   CK C -2.898 -0.218 0.959
+New_AA_PDB/AAS   CL C -4.021 0.340 1.821
+New_AA_PDB/AAS    C C 3.290 0.533 2.268
+New_AA_PDB/AAS    O O 2.658 1.185 3.084
+New_AA_PDB/AAS    H H 5.139 0.345 -0.517
+New_AA_PDB/AAS   HA H 4.264 2.048 1.146
+New_AA_PDB/AAS  HB1 H 1.955 1.826 0.283
+New_AA_PDB/AAS  HB2 H 3.145 1.683 -0.995
+New_AA_PDB/AAS  HG1 H 2.878 -0.839 -0.946
+New_AA_PDB/AAS  HG2 H 1.658 -0.679 0.310
+New_AA_PDB/AAS  HZ1 H -0.825 1.206 -2.824
+New_AA_PDB/AAS  HZ2 H -1.881 1.340 -1.434
+New_AA_PDB/AAS  HH1 H -1.196 -1.226 -2.949
+New_AA_PDB/AAS  HH2 H -2.738 -0.383 -2.986
+New_AA_PDB/AAS  HQ1 H -1.499 -1.833 -0.572
+New_AA_PDB/AAS  HQ2 H -2.767 -2.425 -1.627
+New_AA_PDB/AAS  HI1 H -4.051 -0.184 -0.882
+New_AA_PDB/AAS  HI2 H -4.123 -1.694 0.014
+New_AA_PDB/AAS  HK1 H -2.324 -0.943 1.547
+New_AA_PDB/AAS  HK2 H -2.217 0.597 0.701
+New_AA_PDB/AAS  HL1 H -4.705 -0.454 2.136
+New_AA_PDB/AAS  HL2 H -3.610 0.811 2.719
+New_AA_PDB/AAS  HL3 H -4.596 1.094 1.274
+#
+loop_
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+N CA  SING 
+N H  SING 
+CA CB  SING 
+CA C  SING 
+CA HA  SING 
+CB CG  SING 
+CB HB1  SING 
+CB HB2  SING 
+CG CD  SING 
+CG HG1  SING 
+CG HG2  SING 
+CD OE2  DOUB 
+CD OE1  SING 
+OE1 CZ  SING 
+CZ CH  SING 
+CZ HZ1  SING 
+CZ HZ2  SING 
+CH CQ  SING 
+CH HH1  SING 
+CH HH2  SING 
+CQ CI  SING 
+CQ HQ1  SING 
+CQ HQ2  SING 
+CI CK  SING 
+CI HI1  SING 
+CI HI2  SING 
+CK CL  SING 
+CK HK1  SING 
+CK HK2  SING 
+CL HL1  SING 
+CL HL2  SING 
+CL HL3  SING 
+C O  DOUB 
+#

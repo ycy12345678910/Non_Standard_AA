@@ -1,0 +1,13 @@
+#一、生成3D构象(run-generate_3d_sdf.py):
+    #run-generate_3d_sdf.py [-h] -i CSV_FILE [-smi SMI] [-name NAME]
+    #使用pybel将smiles转换为3d结构(或用AlphaFold等工具)
+    #当手性不确定时，生成不同enantiomer
+#二、生成PDB文件
+    #run-generate_PDB.py [-h] -i INPUT_SDF [-o OUTPUT_PATH]
+    #1. 读取已经定义的氨基酸类型以及已经使用过的3字母
+    #2. 由于已有3d坐标，所以可以删除分子手性和H原子
+    #3. 将多肽Smiles剪切为单个氨基酸（peptide_to_AA），并从N段开始，对氨基酸进行排序
+    #4. 判断氨基酸是否在已知列表了，如果没有，则命名（Name_new_AA）
+    #4. 将单个氨基酸存为PDB,并修改原子类型（fragment_to_PDB）
+    #5. 将单个氨基酸PDB合并为多肽PDB,更新原子序号，并添加肽键（connect_AA_to_peptide）
+    #运行 Python run-generate_PDB.py.py 
